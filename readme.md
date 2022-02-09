@@ -1,3 +1,6 @@
+### Preproyecto realizado por José Antonio Buendía Bollullos
+### Alumno de 2º curso de ASIR en IES Romero Vargas
+
 # Infraestructura Informática Global
 ## Creación de toda la infraestructura informática para una autoescuela.
 
