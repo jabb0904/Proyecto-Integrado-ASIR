@@ -33,15 +33,15 @@ Como describo más adelante, en el apartado Planificación, usaré las siguiente
 Se propone:
 - Diseño e implantación de toda la red informática necesaria (*equipos, routers, switches, cableado, redes, subredes, Vlans, ruteo, etc.*) para la empresa (*se realizará en la aplicación de simulación Packet Tracer*). *Para el proyecto, se simularán varias máquinas virtuales que harán las veces de host en cada una de las aulas y sedes, así como algún host del departamento de administración.* (**PAR / FH**)
 - Instalación de un servidor Windows (*simulado en una máquina virtual*) en el departamento de administración, con las funciones de:
-  - Active Directory (** ISO / ASO **)
-  - Servidor de correos electrónicos (** ISO / ASO **)
-  - Servidor de impresión (** ISO / ASO **)
-- Alojamiento en un hosting gratuito de las web de la empresa (*autoescuelalechu.ga*). (** ISO / ASO /SIR** ).
-- Diseño e implantación de una página web corporativa, mediante el uso de WordPress. (** IAW / SRI **)
-- Diseño e implantación de una web para el funcionamiento de autoescuela, usando el CMS Moodle, que usarán profesores y alumnos en la que se podrán realizar test de cada tipo de carnet, descarga de documentos de ayuda, etc. (** IAW / SRI **)
-- Creación de una estructura de red multisede (*Routing*). (** PAR **)
-- Creación de VNP para que profesores y administración tengan acceso seguro desde cualquier lugar (*Se simulará en un servidor Linux y una máquina virtual cliente, que hará las veces de un portátil particular de uno de los profesores*). (** SAD **)
-- Creación de copias de seguridad en NAS privado. (*Se simulará con una máquina virtual usando Synology*). (** SAD / ASO **)
-- **SI NO SE ME HACE DEMASIADO GRANDE EL PROYECTO**: Creación, dentro de la web corporativa, de un área privada (*para profesores y administración*), donde administración controlará las altas y bajas de alumnos, así como los recibos y los pagos que los mismos realicen y los profesores podrán crear, modificar y consultar los horarios de prácticas que tienen con sus alumnos. (** GBD / ASGBD / LM / IAW **)
+  - Active Directory (**ISO / ASO**)
+  - Servidor de correos electrónicos (**ISO / ASO**)
+  - Servidor de impresión (**ISO / ASO**)
+- Alojamiento en un hosting gratuito de las web de la empresa (*autoescuelalechu.ga*). (**ISO / ASO /SIR** ).
+- Diseño e implantación de una página web corporativa, mediante el uso de WordPress. (**IAW / SRI**)
+- Diseño e implantación de una web para el funcionamiento de autoescuela, usando el CMS Moodle, que usarán profesores y alumnos en la que se podrán realizar test de cada tipo de carnet, descarga de documentos de ayuda, etc. (**IAW / SRI**)
+- Creación de una estructura de red multisede (*Routing*). (**PAR**)
+- Creación de VNP para que profesores y administración tengan acceso seguro desde cualquier lugar (*Se simulará en un servidor Linux y una máquina virtual cliente, que hará las veces de un portátil particular de uno de los profesores*). (**SAD**)
+- Creación de copias de seguridad en NAS privado. (*Se simulará con una máquina virtual usando Synology*). (**SAD / ASO**)
+- **SI NO SE ME HACE DEMASIADO GRANDE EL PROYECTO**: Creación, dentro de la web corporativa, de un área privada (*para profesores y administración*), donde administración controlará las altas y bajas de alumnos, así como los recibos y los pagos que los mismos realicen y los profesores podrán crear, modificar y consultar los horarios de prácticas que tienen con sus alumnos. (**GBD / ASGBD / LM / IAW**)
 
  
